@@ -45,7 +45,7 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]]https://house-marketplace-r-szostak.vercel.app)
+[![Product Name Screen Shot][product-screenshot]]
 
 An application that allows you to add and find houses and apartments for sale or for rent. Written using React / Firebase, the app allows you to create accounts and log in, including using a google account.
 
