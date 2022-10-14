@@ -49,6 +49,8 @@
 
 An application that allows you to add and find houses and apartments for sale or for rent. Written using React / Firebase, the app allows you to create accounts and log in, including using a google account.
 
+<strong>Mobile-First design</strong>
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Built With
