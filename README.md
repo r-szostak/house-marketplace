@@ -13,7 +13,7 @@
     <br />
     <br />
     <br />
-    <a href="https://github-finder-app-theta-ten.vercel.app">View Demo</a>
+    <a href="https://house-marketplace-r-szostak.vercel.app">View Demo</a>
     ·
     <a href="https://github.com/r-szostak/house-marketplace/issues">Report Bug</a>
     ·
@@ -45,7 +45,7 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://github-finder-app-theta-ten.vercel.app)
+[![Product Name Screen Shot][product-screenshot]]https://house-marketplace-r-szostak.vercel.app)
 
 An application that allows you to add and find houses and apartments for sale or for rent. Written using React / Firebase, the app allows you to create accounts and log in, including using a google account.
 
